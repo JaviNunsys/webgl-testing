@@ -1,9 +1,9 @@
 const cacheName = "NunsysXR-AstraZeneca_Summit-0.1.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js.br",
-    "Build/Builds.data.br",
-    "Build/Builds.wasm.br",
+    "Build/docs.loader.js",
+    "Build/docs.framework.js",
+    "Build/docs.data",
+    "Build/docs.wasm",
     "TemplateData/style.css"
 
 ];
