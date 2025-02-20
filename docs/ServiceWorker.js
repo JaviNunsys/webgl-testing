@@ -1,4 +1,4 @@
-const cacheName = "NunsysXR-AstraZeneca_Summit-0.1.0";
+const cacheName = "NunsysXR-AstraZeneca_Summit-1.0.0";
 const contentToCache = [
     "Build/docs.loader.js",
     "Build/docs.framework.js",
